@@ -1,6 +1,6 @@
 variable "content_value" {
   type    = string
-  default = "Hello, world!"
+  default = "Hello, World!"
 }
 
 variable "file_name" {
